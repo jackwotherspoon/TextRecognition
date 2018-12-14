@@ -1,3 +1,5 @@
+//Author: Jack Wotherspoon
+//Created: Nov 5th, 2018
 #include <tesseract/baseapi.h>
 #include <leptonica/allheaders.h>
 #include <iostream>
