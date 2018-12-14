@@ -1,3 +1,5 @@
+//Author: Jack Wotherspoon
+//Created: Nov 5th, 2018
 #include<opencv2/opencv.hpp>
 #include<iostream>
 #include "OpenCV.h"
